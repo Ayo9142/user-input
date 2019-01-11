@@ -1,0 +1,19 @@
+Task 2
+
+- what is an assignment statement of a boolean?
+
+- explain how a variable name can be used more than once in java
+
+- using an expression, explain casting in Java
+
+- create a java file that will collect a user input and prompt for another response.
+
+---------Solution----------------
+
+1. Assignment Statement of boolean, his the process of assigning values to Boolean, or assigns the value on its right to the variable on it lefit.
+
+2. Variables Can be declared more than once by declaring multiple variables, E,G
+String one, two, three;
+one = two = three = "";
+
+3.Casting in java Means taking an object of one particular type and turning in into another object.
